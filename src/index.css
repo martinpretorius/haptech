@@ -491,7 +491,6 @@ p {
   }
 
   .c-hero-header-container {
-    margin-top: 1em !important;
     margin-left: 2em !important;
   }
 
@@ -499,6 +498,7 @@ p {
     font-size: 3.5rem !important;
     text-align: left !important;
     margin: 0 !important;
+    margin-left: 1em !important;
   }
 
   .c-header-text {
